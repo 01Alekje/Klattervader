@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{7B927886-42B4-4B5E-B715-0CBB5F92D0FD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="KlattervaderBackendV2/Models/WeatherForecast.cs">
+    <Files>
+      <File FileName="KlattervaderBackendV2/Controllers/WeatherForecastController.cs" Line="46" Column="60" />
+      <File FileName="KlattervaderBackendV2/Models/Area.cs" />
+      <File FileName="KlattervaderBackendV2/Models/CurrentData.cs" />
+      <File FileName="KlattervaderBackendV2/Models/AnalyseData.cs" Line="314" Column="18" />
+      <File FileName="KlattervaderBackendV2/Models/DbHandler.cs" />
+      <File FileName="KlattervaderBackendV2/Models/WeatherForecast.cs" Line="40" Column="36" />
+      <File FileName="KlattervaderBackendV2/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="KlattervaderBackendV2" expanded="True">
+            <Node name="KlattervaderBackendV2" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="WeatherForecast.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.KlattervaderBackendV2 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

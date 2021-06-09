@@ -1,0 +1,28 @@
+.active {
+  background-color: #33d16d;
+}
+
+.navlink {
+  color: white;
+  font-family: roboto;
+  height: 58px;
+  border-radius: 10px;
+  margin: 0 20px 0 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  -webkit-transition-duration: 150ms;
+}
+
+.navlink:hover {
+  font-weight: 600;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(29, 29, 29);
+}
+
+input:focus {
+  outline: none;
+}
